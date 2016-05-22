@@ -45,6 +45,7 @@ tmp
 
 *.js
 *.map
+*.d.ts
 
 gulpfile.js
 gulpfile.js.map
