@@ -20,7 +20,7 @@ By default, the location of the worker file is `assets/js/xhrWorker.js`. You can
 
 To set a custom path to load your worker file:
 ```
-WebWorker.workerUrl = 'path/to/your/custom_worker.js'
+WebWorkerService.workerUrl = 'path/to/your/custom_worker.js'
 ```
 The example below will help illustrate this.
 
